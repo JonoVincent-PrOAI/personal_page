@@ -1,12 +1,10 @@
 ---
-title: "My research in Practice-Oriented Artificial Intelligence"
-author: "A.N. Other (edit at the top of index.qmd)"
+title: "My research in Adversarial Policies in MARL"
+author: "Jonathan Vincent"
 ---
 
-My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
-This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities. 
+I am {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. My research focuses on robustnes in Multi-Agent Reinforcemnt Lesrning (MARL). In this website I layout my current research, porjects and publications.
 
-{{< var todo >}}
 
 ---
 
