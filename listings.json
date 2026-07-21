@@ -1,17 +1,11 @@
 [
   {
     "listing": "/blog.html",
-    "items": [
-      "/blogposts/post.html",
-      "/blogposts/another_post.html"
-    ]
+    "items": []
   },
   {
     "listing": "/events.html",
-    "items": [
-      "/events/NeurIPS24.html",
-      "/events/BIAS25.html"
-    ]
+    "items": []
   },
   {
     "listing": "/projects.html",
@@ -22,9 +16,6 @@
   },
   {
     "listing": "/publications.html",
-    "items": [
-      "/publications/paper2.html",
-      "/publications/paper.html"
-    ]
+    "items": []
   }
 ]
